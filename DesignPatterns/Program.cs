@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Demo of different Design Patterns with their examples!");
